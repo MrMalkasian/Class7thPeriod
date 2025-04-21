@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class7thPeriod", "Class7thP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trivia", "Trivia\Trivia.csproj", "{8831C9DA-7095-4328-B4D7-CBC5EB175B7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighSchore", "HighSchore\HighSchore.csproj", "{51F6C559-DC78-40C0-857C-67AFAB71CA35}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighScore", "HighSchore\HighScore.csproj", "{51F6C559-DC78-40C0-857C-67AFAB71CA35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

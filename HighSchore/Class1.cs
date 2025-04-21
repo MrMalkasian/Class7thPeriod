@@ -1,4 +1,4 @@
-﻿namespace HighSchore
+﻿namespace HighScore
 {
     public class Class1
     {

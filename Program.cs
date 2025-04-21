@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Earth & Venus!");
+            Console.WriteLine("Hello, Earth, Mercury, Venus, & Mars!");
         }
     }
 }
